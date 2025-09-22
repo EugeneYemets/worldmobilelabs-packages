@@ -1,0 +1,11 @@
+/home/eugene/worldmobile-rs/target/debug/deps/utoipa_swagger_ui-08757bd6b39236f6.d: /home/eugene/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utoipa-swagger-ui-5.0.0/src/lib.rs /home/eugene/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utoipa-swagger-ui-5.0.0/src/actix.rs /home/eugene/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utoipa-swagger-ui-5.0.0/src/axum.rs /home/eugene/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utoipa-swagger-ui-5.0.0/src/oauth.rs /home/eugene/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utoipa-swagger-ui-5.0.0/src/rocket.rs
+
+/home/eugene/worldmobile-rs/target/debug/deps/libutoipa_swagger_ui-08757bd6b39236f6.rlib: /home/eugene/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utoipa-swagger-ui-5.0.0/src/lib.rs /home/eugene/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utoipa-swagger-ui-5.0.0/src/actix.rs /home/eugene/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utoipa-swagger-ui-5.0.0/src/axum.rs /home/eugene/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utoipa-swagger-ui-5.0.0/src/oauth.rs /home/eugene/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utoipa-swagger-ui-5.0.0/src/rocket.rs
+
+/home/eugene/worldmobile-rs/target/debug/deps/libutoipa_swagger_ui-08757bd6b39236f6.rmeta: /home/eugene/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utoipa-swagger-ui-5.0.0/src/lib.rs /home/eugene/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utoipa-swagger-ui-5.0.0/src/actix.rs /home/eugene/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utoipa-swagger-ui-5.0.0/src/axum.rs /home/eugene/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utoipa-swagger-ui-5.0.0/src/oauth.rs /home/eugene/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utoipa-swagger-ui-5.0.0/src/rocket.rs
+
+/home/eugene/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utoipa-swagger-ui-5.0.0/src/lib.rs:
+/home/eugene/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utoipa-swagger-ui-5.0.0/src/actix.rs:
+/home/eugene/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utoipa-swagger-ui-5.0.0/src/axum.rs:
+/home/eugene/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utoipa-swagger-ui-5.0.0/src/oauth.rs:
+/home/eugene/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utoipa-swagger-ui-5.0.0/src/rocket.rs:

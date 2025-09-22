@@ -1,0 +1,22 @@
+[package]
+name = "worldmobile-rs"
+version = "0.2.4"
+edition = "2021"
+
+[dependencies]
+axum = "0.7"
+tokio = { version = "1", features = ["rt-multi-thread", "macros"] }
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+reqwest = { version = "0.12", features = ["json", "rustls-tls"] }
+dotenvy = "0.15"
+tracing = "0.1"
+tracing-subscriber = { version = "0.3", features = ["env-filter", "fmt"] }
+
+# ⬇⬇⬇ важливо: ввімкнена фіча timeout
+tower = { version = "0.4", features = ["timeout"] }
+tower-http = { version = "0.5", features = ["cors", "trace"] }
+
+utoipa = "4.2"
+utoipa-swagger-ui = { version = "5.0.0", features = ["axum"] }
+thiserror = "1"

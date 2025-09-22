@@ -1,0 +1,10 @@
+{
+  "packages": [
+    { "country_code": "US", "country": "United States" },
+    { "country_code": "GB", "country": "United Kingdom" },
+    { "country_code": "DE", "country": "Germany" },
+    { "country_code": "ES", "country": "Spain" },
+    { "country_code": "UA", "country": "Ukraine" },
+    { "country_code": "PL", "country": "Poland" }
+  ]
+}
